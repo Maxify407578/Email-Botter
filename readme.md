@@ -88,7 +88,7 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert.
 
 ## 👨‍💻 Entwickler
 
-Entwickelt von MaxSchueller
+Entwickelt von Maxify407578
 
 ## 📞 Support
 
